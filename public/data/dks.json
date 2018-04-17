@@ -1,0 +1,11 @@
+{
+	"title": "德克士(昌平店)",
+	"info": "起送￥20| 配送￥5| 送达30分钟",
+	"logo": "logo.jpg",
+	"store": "dks",
+	"menu": [
+		{"id": "product", "text": "商品"},
+		{"id": "evaluate", "text": "评价"},
+		{"id": "seller", "text": "商家"}
+	]
+}
